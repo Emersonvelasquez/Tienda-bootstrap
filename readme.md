@@ -1,3 +1,3 @@
 # BOOSTRAP 
 ESTE ES UN EJERCICIO CREADO A PARTIR DE LAS HERRAMINTAS BOOTSTRAP, COM HTML Y CSS 
-![Demon](image.png) 
+![Demon](/assets/image.png) 
